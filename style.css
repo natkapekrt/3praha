@@ -1,0 +1,35 @@
+body {
+    background: url("https://www.family.city/wp-content/uploads/hrad_praha_dark_v2.2.jpg") fixed center/cover no-repeat;
+  }
+ 
+  
+  h1 {
+    color: #ffffff;
+    text-align: center;
+    background-color: black;
+    margin-left: 70vh;
+    margin-right: 70vh;
+    border-radius: 3vh;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  img {
+    width: 200px;
+    height: auto;
+  }
+  
+  a {
+    color: rgb(235, 235, 243);
+    text-decoration: none;
+  }
+
+  .click{
+    background-color: black;
+    margin-left: 90vh;
+    margin-right: 90vh;
+    border-radius: 3vh;
+  }
